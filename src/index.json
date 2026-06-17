@@ -1,16 +1,16 @@
 {
   "layout": "home.njk",
   "page": {
-      "title": "ServerlessDays Cardiff 2025 - Home",
+      "title": "ServerlessDays Cardiff 2026 - Home",
       "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
       "url": "https://cardiff.serverlessdays.io",
-      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1713779866/SLSDaysCardiff-2024_xqixmg.png"
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
   },
   "eventDetails": {
       "name": "Cardiff",
       "description":"Let's get Serverless",
-      "startDate": "23 October 2025",
-      "endDate": "23 October 2025",
+      "startDate": "21 October 2026",
+      "endDate": "21 October 2026",
       "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
       "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
       "tagline": "One Day. One Track. One Community",
@@ -82,7 +82,7 @@
 
   ],
   "venue": {
-    "text": "After the success of the 2024 edition, ServerlessDays Cardiff will once again be held in the DEPOT \r\n \r\n**Location:** DEPOT, Unit 8 Curran Road (Off Dumballs Road), Cardiff, CF10 5DF ",
+    "text": "After the success of the 2025 edition, ServerlessDays Cardiff will once again be held in the DEPOT \r\n \r\n**Location:** DEPOT, Unit 8 Curran Road (Off Dumballs Road), Cardiff, CF10 5DF ",
     "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg",
     "cta": {
         "path": "https://www.google.com/maps/place/DEPOT+Cardiff/@51.4693702,-3.1794773,17z/data=!3m1!4b1!4m6!3m5!1s0x486e034b9fcf5151:0xa7ef9450320a4964!8m2!3d51.4693669!4d-3.176897!16s%2Fg%2F11bv38d3v5?entry=ttu",

@@ -11,11 +11,6 @@
             "name": "Agenda"
         },
         {
-            "key": "workshops",
-            "path": "/workshops",
-            "name": "Workshops"
-        },
-        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
