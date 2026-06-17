@@ -1,0 +1,19 @@
+{
+    "layout": "news.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - News",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/news",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card_fg794k.jpg"
+    },
+    "lead":         {
+        "headline": "We are back for 2025!",
+        "description": "The excitement is building, the attendees are gathering, the servers are quaking in their racks... ServerlessDays Cardiff 2025 has been announced to take place on Thursday October 10th",
+        "date": "11 June 2025",
+        "link": "#",
+        "image": ""
+    },
+    "posts": [
+        
+    ]
+}

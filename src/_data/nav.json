@@ -1,0 +1,24 @@
+{
+    "navBarItems": [
+        {
+            "key": "news",
+            "path": "/news",
+            "name": "News"
+        },
+        {
+            "key": "agenda",
+            "path": "/agenda",
+            "name": "Agenda"
+        },
+        {
+            "key": "workshops",
+            "path": "/workshops",
+            "name": "Workshops"
+        },
+        {
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
+        }
+    ]
+}

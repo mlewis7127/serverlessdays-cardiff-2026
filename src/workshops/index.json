@@ -1,0 +1,11 @@
+{
+    "layout": "workshops.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Workshops",
+        "description": "We are hoping to run a number of hands-on workshops the day before the main conference. Access will be available to those who have a conference ticket. The intention is to give people experience building serverless applications supported by experts. If you or your organisation are interested in running a workshop, please get in touch at cardiff@serverlessdays.io",
+        "url": "https://cardiff.serverlessdays.io/workshops",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "workshops": [   
+    ]
+}

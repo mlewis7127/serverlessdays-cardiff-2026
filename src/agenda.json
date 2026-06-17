@@ -1,0 +1,50 @@
+{
+  "layout": "agenda.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff 2025 - Agenda",
+      "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
+      "url": "https://cardiff.serverlessdays.io/agenda",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1713779866/SLSDaysCardiff-2024_xqixmg.png"
+  },
+  "agenda": [
+    {
+        "date": "23 October 2025",
+        "type": "date"
+    },
+    {
+        "time": "08:00",
+        "name": "Doors Open",
+        "type": "break"
+    },
+    {
+        "time": "09:15",
+        "name": "Welcome Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "09.30",
+        "name": "Agenda coming soon",
+        "type": "break"
+    },
+    {
+        "time": "17.15",
+        "name": "Closing Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "17:30",
+        "name": "Networking and Drinks",
+        "type": "break"
+    }
+  ]
+}

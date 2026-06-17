@@ -1,0 +1,89 @@
+{
+    "layout": "speakers.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Speakers",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/speakers",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1676760468/SLSDaysCardiff-card_fg794k.jpg"
+    },
+    "speakers" :  [
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1681473194/Usman-AWS_brtbxy.png",
+            "alt": "Usman Khalid",
+            "link": "/speakers/usman",
+            "talk": "Future of EDA on AWS"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+            "alt": "Julian Wood",
+            "link": "/speakers/julian",
+            "talk": "Building Serverlesspresso: Creating event-driven architectures"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg",
+            "alt": "Sarah Hamilton",
+            "link": "/speakers/sarah",
+            "talk": "The Serverless Behind LEGO.com"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1686951459/Anna-Maria-Wykes_z5v5rw.png",
+            "alt": "Anna-Maria Wykes",
+            "link": "/speakers/anna-maria",
+            "talk": "Azure OpenAI vs OpenAI"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687018414/NCSC-logo_lrax3j.png",
+            "alt": "NCSC",
+            "link": "/speakers/ncsc",
+            "talk": "The State of Security with Serverless"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024157/AndreeaMerariu_konxcd.jpg",
+            "alt": "Andreea Merariu",
+            "link": "/speakers/andreea",
+            "talk": "Growing as a serverless engineer in an enterprise"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg",
+            "alt": "Tom Collins",
+            "link": "/speakers/tom",
+            "talk": "The long road to serverless maturity"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687025803/mete_dsrwqx.jpg",
+            "alt": "Mete Atamel",
+            "link": "/speakers/mete",
+            "talk": "Open standards for building event-driven serverless applications in the cloud"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035406/mj2_r11klx.jpg",
+            "alt": "Matthew Jones",
+            "link": "/speakers/matthew",
+            "talk": "The Evolution of BBC Online"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035234/CraigJonesBBC_ltagr9.jpg",
+            "alt": "Craig Jones",
+            "link": "/speakers/craig",
+            "talk": "The Evolution of BBC Online"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577876281/daniel-bass_v6rfrv.jpg",
+            "alt": "Daniel Bass",
+            "link": "/speakers/daniel",
+            "talk": "Serverless Sustainability"
+          },
+          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687036134/ben_k7pnfb.jpg",
+            "alt": "Ben Ellerby",
+            "link": "/speakers/ben",
+            "talk": "Serverless Sustainability"
+          },
+          {
+            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
+            "alt": "Sheen Brisals",
+            "link": "/speakers/sheen",
+            "talk": "Serverless Adoption Essentials"
+          }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "layout": "coc.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff 2025 - Home",
+        "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
+        "url": "https://cardiff.serverlessdays.io/coc",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1713779866/SLSDaysCardiff-2024_xqixmg.png"
+    },
+    "contact": {
+        "email": "cardiff@serverlessdays.io",
+        "twitter": "https://twitter.com/@ServerlessCWL"
+    }
+}

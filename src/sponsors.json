@@ -1,0 +1,25 @@
+{
+    "layout": "sponsors.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff 2025 - Sponsors",
+        "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
+        "url": "https://cardiff.serverlessdays.io/sponsors",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1713779866/SLSDaysCardiff-2024_xqixmg.png"
+    },
+    "sponsor": {
+        "cta": {
+            "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
+            "name": "Download"
+        }
+    },
+    "sponsors": {
+        "platinum": [
+        ],
+        "gold": [
+        ],
+        "silver": [
+        ],
+        "community": [
+        ]
+    }
+}
