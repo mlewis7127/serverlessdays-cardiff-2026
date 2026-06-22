@@ -1,0 +1,12 @@
+{
+    "layout": "cfp.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff 2026 - Call for Papers",
+        "description": "Submit your talk proposal for ServerlessDays Cardiff 2026",
+        "url": "https://cardiff.serverlessdays.io/cfp",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
+    },
+    "cfp": {
+        "formspreeId": "xykqyyww"
+    }
+}

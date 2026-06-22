@@ -1,0 +1,58 @@
+---
+layout: base.njk
+---
+<div class="ph3 ph0-ns pt4 pt6-ns w-100">
+    <div class="mw6-m mw7-l avenir center">
+        <h1 class="f1 tc">Call for Papers</h1>
+        <p class="f5 lh-copy tc">We'd love to hear from you! Submit your talk proposal below.</p>
+
+        <form action="https://formspree.io/f/{{ cfp.formspreeId }}" method="POST" class="pa3 pa4-ns">
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="speaker-name">Speaker Name</label>
+                <input type="text" id="speaker-name" name="speaker_name" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2">
+            </div>
+
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="email">Email</label>
+                <input type="email" id="email" name="email" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2">
+            </div>
+
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="talk-title">Talk Title</label>
+                <input type="text" id="talk-title" name="talk_title" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2">
+            </div>
+
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="abstract">Abstract</label>
+                <textarea id="abstract" name="abstract" rows="6" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2"></textarea>
+            </div>
+
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="talk-format">Talk Format</label>
+                <select id="talk-format" name="talk_format" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2">
+                    <option value="">Select a format</option>
+                    <option value="Main Talk (25 mins)">Main Talk (25 mins)</option>
+                    <option value="Lightning Talk (10 mins)">Lightning Talk (10 mins)</option>
+                </select>
+            </div>
+
+            <div class="mv3">
+                <label class="db fw6 mb2 f5" for="bio">Bio</label>
+                <textarea id="bio" name="bio" rows="4" required
+                    class="input-reset ba b--white pa2 w-100 f5 primaryBkg primaryColor br2"></textarea>
+            </div>
+
+            <div class="mv4 tc">
+                <button type="submit"
+                    class="f5 fw6 ph4 pv3 input-reset ba b--transparent contrastBkg contrastColor pointer br2 grow">
+                    Submit Proposal
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
