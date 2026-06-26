@@ -6,4 +6,4 @@ In addition to afforable tickets we run a scholarship program for under represen
 
 If you are a member of the press or a tech analyst you can apply for tickets via emailing us at [cardiff@serverlessdays.io](mailto:cardiff@serverlessdays.io)
 
-Early Bird tickets will go on sale on Mar 3rd 2023 12:00 GMT
+Early Bird tickets will go on sale on June 26th 2026 12:00 GMT

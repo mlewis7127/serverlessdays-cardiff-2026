@@ -12,7 +12,7 @@
             "description": "Standard Admission",
             "price": "£25",
             "cta": {            
-                "path": "#",
+                "path": "https://ti.to/serverlessdays-cardiff/slsdays-cardiff-2026",
                 "name": "Buy"
             }
         },
@@ -21,7 +21,7 @@
             "description": "Standard Admission",
             "price": "£35",
             "cta": {            
-                "path": "#",
+                "path": "https://ti.to/serverlessdays-cardiff/slsdays-cardiff-2026",
                 "name": "Buy"
             }
         },
@@ -30,7 +30,7 @@
             "description": "Standard Admission for you and sponsor a diversity ticket",
             "price": "£50",
             "cta": {            
-                "path": "#",
+                "path": "https://ti.to/serverlessdays-cardiff/slsdays-cardiff-2026",
                 "name": "Buy"
             }
         }

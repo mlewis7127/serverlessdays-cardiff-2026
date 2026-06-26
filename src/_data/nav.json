@@ -17,6 +17,12 @@
             "name": "Agenda"
         },
         {
+            "key": "tickets",
+            "path": "/tickets",
+            "name": "Tickets",
+            "cta": "true"
+        },
+        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
