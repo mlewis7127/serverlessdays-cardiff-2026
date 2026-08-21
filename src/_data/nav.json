@@ -1,12 +1,6 @@
 {
     "navBarItems": [
         {
-            "key": "cfp",
-            "path": "/cfp",
-            "name": "Call for Papers",
-            "cta": true
-        },
-        {
             "key": "news",
             "path": "/news",
             "name": "News"

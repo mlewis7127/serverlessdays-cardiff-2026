@@ -15,8 +15,8 @@
       "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
       "tagline": "One Day. One Track. One Community",
       "cta": {
-          "path": "cfp/",
-          "name": "Call for Papers"
+          "path": "#",
+          "name": "Coming Soon"
       },
       "altCTA": {
           "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus-2026.pdf",
