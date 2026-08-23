@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Grace Briody",
+        "description": "Grace has spent her tech career helping organisations build cloud-native applications and modern engineering platforms, first as a Solutions Architect at AWS and now as a Customer Solutions Architect at Microsoft. Working at the intersection of developer experience, platform engineering, and AI, she helps teams adopt new technologies without adding unnecessary complexity. A technology enthusiast with a healthy scepticism of industry hype, Grace draws on her background in teaching to make complex technical topics accessible, practical, and engaging for audiences of all experience levels.",
+        "url": "https://cardiff.serverlessdays.io/speakers/grace",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg"
+    },
+    "speaker": {
+        "name": "Grace Briody",
+        "title": "Solutions Engineer for Cloud and AI Apps, Microsoft",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+        "bio": "Grace has spent her tech career helping organisations build cloud-native applications and modern engineering platforms, first as a Solutions Architect at AWS and now as a Customer Solutions Architect at Microsoft. Working at the intersection of developer experience, platform engineering, and AI, she helps teams adopt new technologies without adding unnecessary complexity. A technology enthusiast with a healthy scepticism of industry hype, Grace draws on her background in teaching to make complex technical topics accessible, practical, and engaging for audiences of all experience levels.",
+        "talk": {
+            "title": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?​",
+            "abstract" : "We were told AI would make developers 10x faster. \n\n So why are most teams still waiting on architecture reviews, environment setup, security approvals, deployment pipelines, compliance checks, and access requests? \n\n The reality is that coding was never the biggest bottleneck. \n\n In this talk, we'll look at where delivery time is really spent across the software lifecycle and how AI is helping remove friction far beyond code generation. Using real-world examples, we'll explore how developers are using AI to automate design reviews, create deployment environments on demand, generate tests, improve operational visibility, and eliminate repetitive engineering tasks. \n\n You'll leave with practical ideas you can apply immediately, regardless of what cloud you build on."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/grace-briody-2542a38b/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

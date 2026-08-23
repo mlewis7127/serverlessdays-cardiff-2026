@@ -24,7 +24,22 @@
       }
   },
   "sponsors": {
-    "gold": [  
+    "gold": [
+            {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_125/v1690037756/mobilise_yz9u49.svg",
+        "alt": "Mobilise",
+        "link": "https://www.mobilise.cloud/"    
+      },
+      {
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_125/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "alt": "Amazon Web Services",
+        "link": "https://aws.amazon.com"    
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_100/v1757361947/CGI_logo_color_rgb_zwetuq.png",
+        "alt": "CGI",
+        "link": "https://aws.amazon.com"    
+      }  
     ],
     "silver": [
     ],
@@ -36,6 +51,24 @@
   "speakers": {
       "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. Although serverless is a theme that will run throughout the day, with recent seismic changes in the software industry, we want to hear about the impact of generative AI, digital sovereignty, cloud financial management and cloud security amongst other themes. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
       "lineup": [
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg",
+          "alt": "Ian Massingham",
+          "link": "/speakers/ian",
+          "talk": "Going AI Native: How Anthropic uses Claude"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
+          "alt": "Tom Brewer",
+          "link": "/speakers/tom",
+          "talk": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday"
+        },        
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+          "alt": "Grace Briody",
+          "link": "/speakers/grace",
+          "talk": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?"
+        }
     ]
   },
   "agenda": [

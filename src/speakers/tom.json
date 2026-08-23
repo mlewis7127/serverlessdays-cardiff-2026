@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Tom Brewer",
+        "description": "Tom is Chief Digital and Technology Office at the Driver and Vehicle Licensing Agency (DVLA).",
+        "url": "https://cardiff.serverlessdays.io/speakers/tom",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png"
+    },
+    "speaker": {
+        "name": "Tom Brewer",
+        "title": "Chief Digital and Technology Office, DVLA",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
+        "bio": "Tom is Chief Digital and Technology Office at the Driver and Vehicle Licensing Agency (DVLA).",
+        "talk": {
+            "title": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday​",
+            "abstract" : "How many organisations today want to deliver new features and functionality, but are hamstrung by their legacy systems? \n\n In this talk we will hear first hand about the approach taken at DVLA to deliver new modern digital services."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/thomasowenbrewer/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

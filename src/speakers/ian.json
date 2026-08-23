@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Ian Massingham",
+        "description": "Ian Massingham leads Applied AI for startups across EMEA at Anthropic, helping founders and startup engineering teams build production AI products on Claude. He brings two decades of experience across engineering, developer relations, and go-to-market leadership.",
+        "url": "https://cardiff.serverlessdays.io/speakers/ian",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg"
+    },
+    "speaker": {
+        "name": "Ian Massingham",
+        "title": "Head of Applied AI, EMEA Startups",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg",
+        "bio": "Ian Massingham leads Applied AI for startups across EMEA at Anthropic, where he and his team help founders & startup engineering teams build production AI products on Claude. He brings two decades of experience spanning engineering, developer relations, and go-to-market leadership.\n\nPreviously, Ian was an early team member at Griptape, a startup focused on generative AI in visual effects that Foundry acquired, and served as Chief Marketing Officer at Aiven, the Finnish open-source data infrastructure unicorn. Prior to that, Ian spent several years at Amazon Web Services leading developer relations and solutions architecture, helping hundreds of thousands of developers adopt cloud and AI technologies.\n\nToday he works closely with Europe's fastest-growing AI-native startups, advising technical leaders on how to move from prototype to scaled deployment. Ian is a frequent speaker on applied AI, developer ecosystems, and what it takes to build durable companies on frontier models.",
+        "talk": {
+            "title": "Going AI Native: How Anthropic uses Claude​",
+            "abstract" : "How does the company building Claude actually use it day to day? In this session, hear firsthand how Anthropic’s teams are putting Claude to work across coding, research, data analysis and everyday workflows, and what they’ve learned along the way."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/imassingham/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
