@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Gunnar Grosch",
+        "description": "I am a developer advocate and engineer with 25+ years of experience building software, scaling developer communities, and making complex technology accessible. I started as a community member, became an AWS User Group Leader, got named an AWS Serverless Hero, and spent more than five years as a Developer Advocate at AWS, rising to Principal. I'm now a Developer Advocate at Sinch.\n\nI sit between the people who build the tools and the people who use them, and I make both sides better. I bring what I hear in the community back to the teams building the product, so the next version gets closer to what practitioners actually need.",
+        "url": "https://cardiff.serverlessdays.io/speakers/gunnar",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png"
+    },
+    "speaker": {
+        "name": "Gunnar Grosch",
+        "title": "Developer Advocate, Sinch",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png",
+        "bio": "I am a developer advocate and engineer with 25+ years of experience building software, scaling developer communities, and making complex technology accessible. I started as a community member, became an AWS User Group Leader, got named an AWS Serverless Hero, and spent more than five years as a Developer Advocate at AWS, rising to Principal. I'm now a Developer Advocate at Sinch.\n\nI sit between the people who build the tools and the people who use them, and I make both sides better. I bring what I hear in the community back to the teams building the product, so the next version gets closer to what practitioners actually need.",
+        "talk": {
+            "title": "Building Conversational Agents in Code with AWS Lambda Durable Functions​",
+            "abstract" : "Building multi-agent AI workflows usually requires complex state machines to handle unpredictable human delays. Building on the core concepts of AWS Lambda Durable Functions, this session dives into applied agent orchestration. We will coordinate Amazon Bedrock conversational agents with messaging APIs for inbound interactions. You will learn how to dispatch specialized AI agents, use callbacks to handle asynchronous human input natively, and build resilient, long-running chat architectures entirely in code."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/gunnargrosch/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

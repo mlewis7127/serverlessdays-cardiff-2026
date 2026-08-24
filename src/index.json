@@ -62,12 +62,18 @@
           "alt": "Tom Brewer",
           "link": "/speakers/tom",
           "talk": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday"
-        },        
+        },
         {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
           "alt": "Grace Briody",
           "link": "/speakers/grace",
           "talk": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png",
+          "alt": "Gunnar Grosch",
+          "link": "/speakers/gunnar",
+          "talk": "Building Conversational Agents in Code with AWS Lambda Durable Functions"
         }
     ]
   },
