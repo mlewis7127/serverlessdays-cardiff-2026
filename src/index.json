@@ -74,6 +74,12 @@
           "alt": "Gunnar Grosch",
           "link": "/speakers/gunnar",
           "talk": "Building Conversational Agents in Code with AWS Lambda Durable Functions"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+          "alt": "Julian Wood",
+          "link": "/speakers/julian",
+          "talk": "Serverless Compute for Workloads You Didn't Expect"
         }
     ]
   },

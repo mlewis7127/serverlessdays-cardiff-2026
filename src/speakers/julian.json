@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Julian Wood",
+        "description": "Principal Developer Advocate for AWS Serverless.",
+        "url": "https://cardiff.serverlessdays.io/speakers/julian",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg"
+    },
+    "speaker": {
+        "name": "Julian Wood",
+        "title": "Principal Developer Advocate for AWS Serverless",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+        "bio": "Julian is a Principal Developer Advocate for AWS Serverless. He works within the serverless product teams at AWS to help people use and love serverless more. He also acts as the internal voice of developers and builders to help make AWS serverless the best place to run applications",
+        "talk": {
+            "title": "Serverless Compute for Workloads You Didn't Expect",
+            "abstract" : "You write a function, it handles an event. That was the model for AWS Lambda for 10 years. How about taking that same simplicity and applying it to other workloads? Durable workflows, agents, isolated sandboxes, and more. Serverless compute has quietly stretched to cover use cases most developers haven't considered. Learn how to use Lambda to handle even more ambitious workloads."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/julian_wood",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+                        {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/julianrwood/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
