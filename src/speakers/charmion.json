@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Charmion Akande",
+        "description": "Charmion Akande is a technology professional specialising in Cloud and data engineering, with a career spanning cloud infrastructure, networking, consulting and modern data platforms. Her technical experience includes AWS, Azure, infrastructure Kubernetes, automation and cloud-native data technologies. \n\nHer multidisciplinary background has given her a strong understanding of cloud environments from both an infrastructure and data perspective, as well as the ability to translate complex technical challenges into practical solutions. \n\nCharmion is passionate about technology, innovation and knowledge sharing. She is particularly interested in the evolution of cloud technology and the ways organisation can build platforms that are scalable, resilient, secure and fit for the future.",
+        "url": "https://cardiff.serverlessdays.io/speakers/charmion",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png"
+    },
+    "speaker": {
+        "name": "Charmion Akande",
+        "title": "Data Platform Engineer, UBDS Digital",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
+        "bio": "Charmion Akande is a technology professional specialising in Cloud and data engineering, with a career spanning cloud infrastructure, networking, consulting and modern data platforms. Her technical experience includes AWS, Azure, infrastructure Kubernetes, automation and cloud-native data technologies. \n\nHer multidisciplinary background has given her a strong understanding of cloud environments from both an infrastructure and data perspective, as well as the ability to translate complex technical challenges into practical solutions. \n\nCharmion is passionate about technology, innovation and knowledge sharing. She is particularly interested in the evolution of cloud technology and the ways organisation can build platforms that are scalable, resilient, secure and fit for the future.",
+        "talk": {
+            "title": "Digital Sovereignty: From theory to implementation​",
+            "abstract" : "Digital sovereignty is about more than data location and security. Geopolitical instability, regulatory intervention and jurisdictional risk mean that availability, control and freedom of action are becoming important architectural considerations too. The first half of this session will explore what sovereignty means for technologists, why conventional multi-region resilience doesn't necessarily address these risks, and when organisations should care.\n\nThe second half gets technical: we'll explore how the AWS European Sovereign Cloud could provide a sovereign failover capability for existing AWS workloads. We'll look at deployment and data patterns, failover approaches, and the dependencies that can make or break the design, including DNS, SSO and identity, certificates, secrets, CI/CD and external services. The aim is to show what it takes to build a workload that can continue operating when the failure isn't a server, AZ or region, but access to the cloud environment itself."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ife-charmion-akande/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

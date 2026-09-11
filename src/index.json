@@ -39,7 +39,12 @@
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_100/v1757361947/CGI_logo_color_rgb_zwetuq.png",
         "alt": "CGI",
         "link": "https://aws.amazon.com"    
-      }  
+      },
+      {
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload//c_scale,w_240/v1755552356/DVLA_Lesser_Arms_Stacked_Pantone_white_zhexst.png",
+        "alt": "DVLA",
+        "link": "https://careers.dft.gov.uk/our-dft-family/driver-and-vehicle-licensing-agency/digital/"
+      }
     ],
     "silver": [
     ],
@@ -81,7 +86,7 @@
           "link": "/speakers/julian",
           "talk": "Serverless Compute for Workloads You Didn't Expect"
         },
-                {
+        {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
           "alt": "Sarah Williams-Gardener OBE",
           "link": "/speakers/sarahwg",
@@ -92,6 +97,18 @@
           "alt": "Sarah Jones",
           "link": "/speakers/sarahj",
           "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
+          "alt": "Matt Johnson",
+          "link": "/speakers/matt",
+          "talk": "Digital Sovereignty: From theory to implementation​"
+        },
+                {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
+          "alt": "Charmion Akande",
+          "link": "/speakers/charmion",
+          "talk": "Digital Sovereignty: From theory to implementation​"
         }
     ]
   },
