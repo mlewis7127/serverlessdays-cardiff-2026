@@ -80,6 +80,18 @@
           "alt": "Julian Wood",
           "link": "/speakers/julian",
           "talk": "Serverless Compute for Workloads You Didn't Expect"
+        },
+                {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
+          "alt": "Sarah Williams-Gardener OBE",
+          "link": "/speakers/sarahwg",
+          "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
+        },
+                {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
+          "alt": "Sarah Jones",
+          "link": "/speakers/sarahj",
+          "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
         }
     ]
   },

@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sarah Williams-Gardener OBE",
+        "description": "Sarah is an experienced fintech and business leader, currently serving as Chair of FinTech Wales and Non-Executive Director at the DVLA. She was formerly the CEO of FinTech Wales, where under her leadership the organisation drove significant investment into Welsh fintech firms and grew the ecosystem. \n\nPrior to that, Sarah was a founding member of Starling Bank and spent 17 years at IBM, where she held the position of Government Affairs Director UK. She combines experience in banking, technology, policy, and strategic leadership — working across government, fintech, and corporate sectors.\n\nSarah is an independent member of the Tata translation board, Chair of Business Beats Cancer Cymru and a trustee for Surviving Economic Abuse.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sarahwg",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg"
+    },
+    "speaker": {
+        "name": "Sarah Williams-Gardener OBE",
+        "title": "Chair, FinTech Wales",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
+        "bio": "Sarah is an experienced fintech and business leader, currently serving as Chair of FinTech Wales and Non-Executive Director at the DVLA. She was formerly the CEO of FinTech Wales, where under her leadership the organisation drove significant investment into Welsh fintech firms and grew the ecosystem. \n\nPrior to that, Sarah was a founding member of Starling Bank and spent 17 years at IBM, where she held the position of Government Affairs Director UK. She combines experience in banking, technology, policy, and strategic leadership — working across government, fintech, and corporate sectors.\n\nSarah is an independent member of the Tata translation board, Chair of Business Beats Cancer Cymru and a trustee for Surviving Economic Abuse.",
+        "talk": {
+            "title": "AI in Financial Services: Innovating Without Compromising Trust​",
+            "abstract" : "AI is reshaping financial services, but success in a regulated industry requires more than powerful models. Join FinTech Wales' Chair (Sarah Williams-Gardener) and CEO (Sarah Jones) and industry leaders for an engaging discussion on how organisations are adopting AI responsibly, balancing innovation with governance, and preparing for the future of financial services. From regulation and risk to real-world deployment and customer trust, discover what it takes to build AI that delivers value in one of the world's most demanding sectors."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sarah-williams-gardener-obe-7376714/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
