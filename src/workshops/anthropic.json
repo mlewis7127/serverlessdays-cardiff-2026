@@ -1,0 +1,18 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "Anthropic Workshop",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789403924/anthropic-text_eilm3j.png",
+        "description": "Welcome to the Anthropic Workshop! More details coming soon",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "CGI, 5th Floor, One Central Square",
+            "when": "20 October 2026",
+            "starttime": "10:00",
+            "duration": "2.0 hours"
+        },
+        "speakers": [
+        ]
+    }
+}

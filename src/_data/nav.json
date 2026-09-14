@@ -1,11 +1,6 @@
 {
     "navBarItems": [
         {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
             "key": "agenda",
             "path": "/agenda",
             "name": "Agenda"
@@ -16,6 +11,11 @@
             "name": "Tickets",
             "cta": "true"
         },
+        {
+            "key": "workshops",
+            "path": "/workshops",
+            "name": "Workshops"
+        },        
         {
             "key": "coc",
             "path": "/coc",

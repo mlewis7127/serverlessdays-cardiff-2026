@@ -2,10 +2,41 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Workshops",
-        "description": "We are hoping to run a number of hands-on workshops the day before the main conference. Access will be available to those who have a conference ticket. The intention is to give people experience building serverless applications supported by experts. If you or your organisation are interested in running a workshop, please get in touch at cardiff@serverlessdays.io",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://cardiff.serverlessdays.io/workshops",
-        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
     },
-    "workshops": [   
+    "workshops": [  
+        {
+            "title": "Anthropic Workshop",
+            "description": "Welcome to the Anthropic Workshop! More details coming soon.",
+            "date": "20 Oct 2026",
+            "link": "./anthropic",
+            "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789403924/anthropic-text_eilm3j.png",
+            "duration": "2.0 hours",
+            "start": "10:00",
+            "location": "CGI, 5th Floor, One Central Square",
+            "capacity": "40",
+            "speakers": [
+            ]
+        },        
+        {
+            "title": "AWS Lambda MicroVMs Workshop",
+            "description": "Welcome to the AWS Lambda MicroVMs Workshop! Lambda MicroVMs are a compute option that pairs the hardware isolation of a virtual machine with the on-demand, pay-for-use model of AWS Lambda. A MicroVM launches from a snapshot in under a second, runs your code in its own kernel, and costs nothing while it is idle. That combination fits workloads that need strong isolation without a server sitting idle between uses.",
+            "date": "20 Oct 2026",
+            "link": "./aws",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "3.0 hours",
+            "start": "13:00",
+            "location": "CGI, 5th Floor, One Central Square",
+            "capacity": "40",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "AWS Senior Solutions Architect & UKPS Serverless Lead",
+                  "company": "AWS"
+                }
+            ]
+        }
     ]
 }

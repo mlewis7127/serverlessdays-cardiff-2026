@@ -1,0 +1,30 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "AWS Lambda MicroVMs Workshop",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_100/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "description": "Welcome to the AWS Lambda MicroVMs Workshop! Lambda MicroVMs are a compute option that pairs the hardware isolation of a virtual machine with the on-demand, pay-for-use model of AWS Lambda. A MicroVM launches from a snapshot in under a second, runs your code in its own kernel, and costs nothing while it is idle. That combination fits workloads that need strong isolation without a server sitting idle between uses.\n\nThis workshop will teach you how to get started with Lambda MicroVMs. We will then look using an event-driven coding agent in a MicroVM. The next module looks ephemeral CI/CD runners on MicroVMs. Finally, we look at multi-tenant SaaS on MicroVMs where each customer gets their own MicroVM",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "CGI, 5th Floor, One Central Square",
+            "when": "20 October 2026",
+            "starttime": "13:00",
+            "duration": "3.0 hours"
+        },
+        "speakers": [
+            {
+                "name": "Michael Hume",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/ar_1:1,c_fill,e_art:hokusai,g_auto,w_250/v1689754910/mikehumeserverlesspresso_rznxaa.jpg",
+                "bio": "Michael is as a Senior Solutions Architect for Amazon Web Services, helping Public Sector customers migrate & build software, applications and services on AWS. A proud dedicated member of AWS Serverless technical field community, advocating Serverless to both customers and the wider technical community. He is also a huge Liverpool & Beatles fan!",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/michael-hume-4663bb64/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
