@@ -27,24 +27,175 @@
         "type": "talk"
     },
     {
-        "time": "09.30",
-        "name": "Agenda coming soon",
-        "type": "break"
+      "time": "09:30",
+      "name": "Keynote",
+      "title": "Serverless Compute for Workloads You Didn't Expect",
+      "speaker": [
+        {
+          "name": "Julian Wood",
+          "link": "/speakers/julian",
+          "title": "Principal Developer Advocate",
+          "company": "AWS"
+        }
+      ],
+      "type": "keynote"
+    },    
+    {
+      "time": "10:20",
+      "name": "Talk",
+      "speaker": [
+        {
+          "name": "Kyra Wulffert",
+          "link": "",
+          "title": "AI/ML Solutions Architect",
+          "company": "Databricks"
+        }
+      ],
+      "type": "talk"
     },
     {
-        "time": "17.15",
-        "name": "Closing Remarks",
-        "speaker": [
-            {
-                "name": "ServerlessDays Team"
-            }
-        ],
-        "type": "talk"
+      "time": "10:45",
+      "name": "Break",
+      "type": "break"
     },
     {
-        "time": "17:30",
-        "name": "Networking and Drinks",
-        "type": "break"
+      "time": "11:15",
+      "name": "Talk",
+      "title": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?​",
+      "speaker": [
+        {
+          "name": "Grace Briody",
+          "link": "/speakers/grace",
+          "title": "Solutions Engineer for Cloud and AI Apps",
+          "company": "Microsoft"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "11:45",
+      "name": "Talk",
+      "title": "Building Conversational Agents in Code with AWS Lambda Durable Functions​",
+      "speaker": [
+        {
+          "name": "Gunnar Grosch",
+          "link": "/speakers/gunnar",
+          "title": "Developer Advocate",
+          "company": "Sinch"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "12:15",
+      "name": "Panel",
+      "title": "AI in Financial Services: Innovating Without Compromising Trust​",
+      "speaker": [
+        {
+          "name": "Sarah Williams-Gardener OBE",
+          "link": "/speakers/sarahwg",
+          "title": "Chair",
+          "company": "FinTech Wales"
+        },
+        {
+          "name": "Sarah Jones",
+          "link": "/speakers/sarahj",
+          "title": "CEO",
+          "company": "FinTech Wales"
+        }
+      ],
+      "type": "panel"
+    },
+    {
+      "time": "12:45",
+      "name": "Lunch",
+      "type": "break"
+    },
+    {
+      "time": "14:00",
+      "name": "Keynote",
+      "title": "Going AI Native: How Anthropic uses Claude",
+      "speaker": [
+        {
+          "name": "Ian Massingham",
+          "link": "/speakers/ian",
+          "title": "Head of Applied AI",
+          "company": "Anthropic"
+        }
+      ],
+      "type": "keynote"
+    },
+    {
+      "time": "14:50",
+      "name": "Talk",
+      "title": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday​",
+      "speaker": [
+        {
+          "name": "Tom Brewer",
+          "link": "/speakers/tom",
+          "title": "Chief Digital and Technology Officer",
+          "company": "DVLA"
+        }
+      ],
+      "type": "talk"
+    }, 
+    {
+      "time": "15:20",
+      "name": "Talk",
+      "title": "Digital Sovereignty: From theory to implementation​",
+      "speaker": [
+        {
+          "name": "Matt Johnson",
+          "link": "/speakers/matt",
+          "title": "Chief Technology Officer",
+          "company": "UBDS Group"
+        },
+                {
+          "name": "Charmion Akande",
+          "link": "/speakers/charmion",
+          "title": "Data Platform Engineer",
+          "company": "UBDS Digital"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "15:45",
+      "name": "Break",
+      "type": "break"
+    },
+    {
+      "time": "16:15",
+      "speaker": [
+        {
+          "name": "TBC"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "16:45",
+      "speaker": [
+        {
+          "name": "TBC"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "17:00",
+      "name": "Closing Remarks",
+      "speaker": [
+        {
+          "name": "ServerlessDays Team"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "17:15",
+      "name": "Networking and Drinks - the venue will stay open till 22:00",
+      "type": "break"
     }
   ]
 }

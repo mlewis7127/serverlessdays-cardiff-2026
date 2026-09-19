@@ -47,6 +47,11 @@
       }
     ],
     "silver": [
+      {
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,w_220/v1755551759/Creditsafe-Logo-White_gaefxv.png",
+        "alt": "Creditsafe",
+        "link": "https://www.creditsafe.com/"
+      }
     ],
     "bronze": [
     ],
@@ -104,11 +109,17 @@
           "link": "/speakers/matt",
           "talk": "Digital Sovereignty: From theory to implementation​"
         },
-                {
+        {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
           "alt": "Charmion Akande",
           "link": "/speakers/charmion",
           "talk": "Digital Sovereignty: From theory to implementation​"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
+          "alt": "Kyra Wulffert",
+          "link": "",
+          "talk": "AIOps​"
         }
     ]
   },
@@ -130,7 +141,121 @@
     },
     {
       "time": "09:30",
-      "name": "Opening Talk",
+      "speaker": [
+        {
+          "name": "Julian Wood",
+          "link": "/speakers/julian",
+          "title": "Principal Developer Advocate",
+          "company": "AWS"
+        }
+      ]
+    },    
+    {
+      "time": "10:20",
+      "speaker": [
+        {
+          "name": "Kyra Wulffert",
+          "link": "",
+          "title": "AI/ML Solutions Architect",
+          "company": "Databricks"
+        }
+      ]
+    },
+    {
+      "time": "10:45",
+      "name": "Break",
+      "type": "break"
+    },
+    {
+      "time": "11:15",
+      "speaker": [
+        {
+          "name": "Grace Briody",
+          "link": "/speakers/grace",
+          "title": "Solutions Engineer for Cloud and AI Apps",
+          "company": "Microsoft"
+        }
+      ]
+    },
+    {
+      "time": "11:45",
+      "speaker": [
+        {
+          "name": "Gunnar Grosch",
+          "link": "/speakers/gunnar",
+          "title": "Developer Advocate",
+          "company": "Sinch"
+        }
+      ]
+    },
+    {
+      "time": "12:15",
+      "speaker": [
+        {
+          "name": "Sarah Williams-Gardener OBE",
+          "link": "/speakers/sarahwg",
+          "title": "Chair",
+          "company": "FinTech Wales"
+        },
+        {
+          "name": "Sarah Jones",
+          "link": "/speakers/sarahj",
+          "title": "CEO",
+          "company": "FinTech Wales"
+        }
+      ]
+    },
+    {
+      "time": "12:45",
+      "name": "Lunch",
+      "type": "break"
+    },
+    {
+      "time": "14:00",
+      "speaker": [
+        {
+          "name": "Ian Massingham",
+          "link": "/speakers/ian",
+          "title": "Head of Applied AI",
+          "company": "Anthropic"
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "speaker": [
+        {
+          "name": "Tom Brewer",
+          "link": "/speakers/tom",
+          "title": "Chief Digital and Technology Officer",
+          "company": "DVLA"
+        }
+      ]
+    }, 
+    {
+      "time": "15:20",
+      "speaker": [
+        {
+          "name": "Matt Johnson",
+          "link": "/speakers/matt",
+          "title": "Chief Technology Officer",
+          "company": "UBDS Group"
+        },
+                {
+          "name": "Charmion Akande",
+          "link": "/speakers/charmion",
+          "title": "Data Platform Engineer",
+          "company": "UBDS Digital"
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "name": "Break",
+      "type": "break"
+    },
+    {
+      "time": "16:15",
       "speaker": [
         {
           "name": "TBC"
@@ -139,7 +264,16 @@
       "type": "talk"
     },
     {
-      "time": "17:15",
+      "time": "16:45",
+      "speaker": [
+        {
+          "name": "TBC"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "17:00",
       "name": "Closing Remarks",
       "speaker": [
         {
@@ -149,11 +283,10 @@
       "type": "talk"
     },
     {
-      "time": "17:30",
+      "time": "17:15",
       "name": "Networking and Drinks - the venue will stay open till 22:00",
       "type": "break"
     }
-
   ],
   "venue": {
     "text": "After the success of the 2025 edition, ServerlessDays Cardiff will once again be held in the DEPOT \r\n \r\n**Location:** DEPOT, Unit 8 Curran Road (Off Dumballs Road), Cardiff, CF10 5DF ",

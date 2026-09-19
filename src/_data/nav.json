@@ -6,6 +6,11 @@
             "name": "Agenda"
         },
         {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
             "key": "tickets",
             "path": "/tickets",
             "name": "Tickets",

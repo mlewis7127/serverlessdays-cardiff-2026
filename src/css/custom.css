@@ -26,6 +26,9 @@
 /* Home page speaker line-up thumbnails. Change the size here to resize them all. */
 .speakerThumb { width: 10rem; height: 10rem; object-fit: cover; }
 
+/* Agenda rows: keep the 8rem look but let sessions with several speakers grow. */
+.minh4 { min-height: 8rem }
+
 .shadow-3-light { box-shadow: 2px 2px 4px 2px rgba(119, 119, 255, 0.2); }
 .shadow-5-light { box-shadow: 4px 4px 8px 0px rgba(119, 119, 255, 0.2); }
 

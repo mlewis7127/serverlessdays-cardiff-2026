@@ -1,89 +1,71 @@
 {
     "layout": "speakers.njk",
     "page": {
-        "title": "ServerlessDays Cardiff - Speakers",
+        "title": "ServerlessDays Cardiff 2026 - Speakers",
         "description": "One Day. One Track. One Community",
         "url": "https://cardiff.serverlessdays.io/speakers",
-        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1676760468/SLSDaysCardiff-card_fg794k.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
     },
-    "speakers" :  [
+    "speakers": [
         {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1681473194/Usman-AWS_brtbxy.png",
-            "alt": "Usman Khalid",
-            "link": "/speakers/usman",
-            "talk": "Future of EDA on AWS"
-          },
-          {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg",
+            "alt": "Ian Massingham",
+            "link": "/speakers/ian",
+            "talk": "Going AI Native: How Anthropic uses Claude"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
+            "alt": "Tom Brewer",
+            "link": "/speakers/tom",
+            "talk": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+            "alt": "Grace Briody",
+            "link": "/speakers/grace",
+            "talk": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png",
+            "alt": "Gunnar Grosch",
+            "link": "/speakers/gunnar",
+            "talk": "Building Conversational Agents in Code with AWS Lambda Durable Functions"
+        },
+        {
             "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
             "alt": "Julian Wood",
             "link": "/speakers/julian",
-            "talk": "Building Serverlesspresso: Creating event-driven architectures"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg",
-            "alt": "Sarah Hamilton",
-            "link": "/speakers/sarah",
-            "talk": "The Serverless Behind LEGO.com"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1686951459/Anna-Maria-Wykes_z5v5rw.png",
-            "alt": "Anna-Maria Wykes",
-            "link": "/speakers/anna-maria",
-            "talk": "Azure OpenAI vs OpenAI"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687018414/NCSC-logo_lrax3j.png",
-            "alt": "NCSC",
-            "link": "/speakers/ncsc",
-            "talk": "The State of Security with Serverless"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024157/AndreeaMerariu_konxcd.jpg",
-            "alt": "Andreea Merariu",
-            "link": "/speakers/andreea",
-            "talk": "Growing as a serverless engineer in an enterprise"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg",
-            "alt": "Tom Collins",
-            "link": "/speakers/tom",
-            "talk": "The long road to serverless maturity"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687025803/mete_dsrwqx.jpg",
-            "alt": "Mete Atamel",
-            "link": "/speakers/mete",
-            "talk": "Open standards for building event-driven serverless applications in the cloud"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035406/mj2_r11klx.jpg",
-            "alt": "Matthew Jones",
-            "link": "/speakers/matthew",
-            "talk": "The Evolution of BBC Online"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035234/CraigJonesBBC_ltagr9.jpg",
-            "alt": "Craig Jones",
-            "link": "/speakers/craig",
-            "talk": "The Evolution of BBC Online"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577876281/daniel-bass_v6rfrv.jpg",
-            "alt": "Daniel Bass",
-            "link": "/speakers/daniel",
-            "talk": "Serverless Sustainability"
-          },
-          {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687036134/ben_k7pnfb.jpg",
-            "alt": "Ben Ellerby",
-            "link": "/speakers/ben",
-            "talk": "Serverless Sustainability"
-          },
-          {
-            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
-            "alt": "Sheen Brisals",
-            "link": "/speakers/sheen",
-            "talk": "Serverless Adoption Essentials"
-          }
+            "talk": "Serverless Compute for Workloads You Didn't Expect"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
+            "alt": "Sarah Williams-Gardener OBE",
+            "link": "/speakers/sarahwg",
+            "talk": "AI in Financial Services: Innovating Without Compromising Trust"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
+            "alt": "Sarah Jones",
+            "link": "/speakers/sarahj",
+            "talk": "AI in Financial Services: Innovating Without Compromising Trust"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
+            "alt": "Matt Johnson",
+            "link": "/speakers/matt",
+            "talk": "Digital Sovereignty: From theory to implementation"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
+            "alt": "Charmion Akande",
+            "link": "/speakers/charmion",
+            "talk": "Digital Sovereignty: From theory to implementation"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
+            "alt": "Kyra Wulffert",
+            "link": "",
+            "talk": "AIOps"
+        }
     ]
 }

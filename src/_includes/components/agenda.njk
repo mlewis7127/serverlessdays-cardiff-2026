@@ -5,8 +5,8 @@
         <h2 class="f2 mv3">Agenda</h2>
         <div class="pt2 pt3-ns">
             {% for session in agenda %}
-                <span class="h4 tl f5 ba bw1 b--transparent dib w-100 w-auto-ns">
-                    <div class="dt w-100 h-100 contrastBkg contrastColor">
+                <span class="tl f5 ba bw1 b--transparent dib v-top w-100 w-auto-ns">
+                    <div class="dt w-100 minh4 contrastBkg contrastColor">
                         <div class="dt-row">
                             <div class="dtc pa2 v-mid">
                                 <div class="f5 b">
@@ -17,11 +17,17 @@
                                 <div class="f5 i">
                                     {{ session.name }}
                                 </div>
-                                <div class="f5 b">
-                                    {% for speaker in session.speaker %}
+                                {% for speaker in session.speaker %}
+                                    <div class="f5 b">
                                         <div><a class="no-underline contrastColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
-                                    {% endfor %}
-                                </div>
+                                    </div>
+                                    {% if speaker.title %}
+                                        <div class="f5">{{ speaker.title }}</div>
+                                    {% endif %}
+                                    {% if speaker.company %}
+                                        <div class="f5">{{ speaker.company }}</div>
+                                    {% endif %}
+                                {% endfor %}
                             </div>
                         </div>
                     </div>
