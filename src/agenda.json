@@ -43,11 +43,12 @@
     {
       "time": "10:20",
       "name": "Talk",
+      "title": "From Shipping Models to Operating Agents",
       "speaker": [
         {
           "name": "Kyra Wulffert",
-          "link": "",
-          "title": "AI/ML Solutions Architect",
+          "link": "/speakers/kyra",
+          "title": "AI Specialist Architect",
           "company": "Databricks"
         }
       ],

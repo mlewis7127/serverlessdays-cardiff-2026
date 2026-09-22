@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Kyra Wulffert",
+        "description": "Kyra Wulffert is an AI Specialist Architect at Databricks and co-author of The Big Book of AgentOps. Her expertise spans production ML, AI strategy, and agentic architectures, focusing heavily on evaluation frameworks and production pipelines.",
+        "url": "https://cardiff.serverlessdays.io/speakers/kyra",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg"
+    },
+    "speaker": {
+        "name": "Kyra Wulffert",
+        "title": "AI Specialist Architect, Databricks",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
+        "bio": "Kyra Wulffert is an AI Specialist Architect at Databricks and co-author of The Big Book of AgentOps. Her expertise spans production ML, AI strategy, and agentic architectures, focusing heavily on evaluation frameworks and production pipelines. She previously led data science teams shipping NLP, recommendation, and predictive systems, and has spoken at PyData London, ODSC Europe, WiDS Stanford, and the Databricks Data and AI Summit.",
+        "talk": {
+            "title": "From Shipping Models to Operating Agents",
+            "abstract" : "The journey from traditional machine learning models to AI systems demands a new, specialised set of operational practices. This talk traces the evolution of core DevOps principles from the decade of MLOps to the Agents era, where we must plan for deploying and maintaining autonomous, multi-step AI agents that can reason, plan, and take actions in the real world using external tools.\n\nThe talk will show how classic DevOps tenets like continuous deployment must be radically re-engineered to tackle core AgentOps challenges. Drawing on The Databricks Big Book of AgentOps, it will cover:\n\n* Ensuring maturity of operational controls: how critical operational controls must evolve to support multi-agent architectures.\n* Distributed tracing and observability: transforming single-step I/O logs into the traces essential for debugging and explaining agent behaviour.\n* Governed deployment and rollback: establishing AgentOps CI/CD pipelines that treat configurations — prompts, tools, routing logic — as code."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kyrawulffert/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

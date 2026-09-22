@@ -64,8 +64,8 @@
         {
             "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
             "alt": "Kyra Wulffert",
-            "link": "",
-            "talk": "AIOps"
+            "link": "/speakers/kyra",
+            "talk": "From Shipping Models to Operating Agents"
         }
     ]
 }
