@@ -13,13 +13,47 @@
         }
     },
     "sponsors": {
-        "platinum": [
-        ],
         "gold": [
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_79/v1690037756/mobilise_yz9u49.svg",
+                "alt": "Mobilise",
+                "link": "https://www.mobilise.cloud/"
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_120/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_106/v1757361947/CGI_logo_color_rgb_zwetuq.png",
+                "alt": "CGI",
+                "link": "https://www.cgi.com/en"
+            },
+            {
+                "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_129/v1755552356/DVLA_Lesser_Arms_Stacked_Pantone_white_zhexst.png",
+                "alt": "DVLA",
+                "link": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
+            }
         ],
         "silver": [
+            {
+                "img": "https://res.cloudinary.com/dsctrdkro/image/upload/e_trim/c_scale,h_32/v1755551759/Creditsafe-Logo-White_gaefxv.png",
+                "alt": "Creditsafe",
+                "link": "https://www.creditsafe.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_26/v1790193199/Made_Tech_-_logo_-_white_5000px_jg79lq.png",
+                "alt": "Made Tech",
+                "link": "https://www.madetech.com/"
+            }
         ],
+        "bronze": [],
         "community": [
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/e_trim/c_scale,h_56/v1790196127/devituk-rectangle-transparent_ifntkg.png",
+                "alt": "DevITJobs",
+                "link": "https://devitjobs.uk/"
+            }
         ]
     }
 }

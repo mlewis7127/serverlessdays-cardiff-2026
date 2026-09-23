@@ -8,15 +8,6 @@
     },
     "tickets": [
         {
-            "title": "Early Bird Ticket",
-            "description": "Standard Admission",
-            "price": "£25",
-            "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/slsdays-cardiff-2026",
-                "name": "Buy"
-            }
-        },
-        {
             "title": "Standard Ticket",
             "description": "Standard Admission",
             "price": "£35",

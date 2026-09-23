@@ -29,6 +29,25 @@
 /* Agenda rows: keep the 8rem look but let sessions with several speakers grow. */
 .minh4 { min-height: 8rem }
 
+/* /sponsors page only: spread each tier row across the page. The home page panel
+   is narrow, so it keeps the tighter spacing from components/sponsors.njk. */
+@media screen and (min-width: 60em) {
+    .sponsorGrid > div {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem 3rem;
+    }
+    /* two per row, so the four gold sponsors sit 2 x 2 rather than 3 then 1.
+       border-box is needed because tachyons leaves span as content-box, which
+       would add the pa3 padding on top of the basis and force one per row. */
+    .sponsorGrid > div > span {
+        box-sizing: border-box;
+        flex: 0 1 calc(50% - 2rem);
+    }
+}
+
 .shadow-3-light { box-shadow: 2px 2px 4px 2px rgba(119, 119, 255, 0.2); }
 .shadow-5-light { box-shadow: 4px 4px 8px 0px rgba(119, 119, 255, 0.2); }
 

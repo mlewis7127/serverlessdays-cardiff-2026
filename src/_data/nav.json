@@ -6,11 +6,6 @@
             "name": "Agenda"
         },
         {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
             "key": "tickets",
             "path": "/tickets",
             "name": "Tickets",
@@ -21,6 +16,16 @@
             "path": "/workshops",
             "name": "Workshops"
         },        
+        {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
         {
             "key": "coc",
             "path": "/coc",

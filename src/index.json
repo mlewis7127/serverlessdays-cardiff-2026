@@ -1,126 +1,135 @@
 {
   "layout": "home.njk",
   "page": {
-      "title": "ServerlessDays Cardiff 2026 - Home",
-      "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
-      "url": "https://cardiff.serverlessdays.io",
-      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
+    "title": "ServerlessDays Cardiff 2026 - Home",
+    "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
+    "url": "https://cardiff.serverlessdays.io",
+    "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
   },
   "eventDetails": {
-      "name": "Cardiff",
-      "description":"Let's get Serverless",
-      "startDate": "21 October 2026",
-      "endDate": "21 October 2026",
-      "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-      "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
-      "tagline": "One Day. One Track. One Community",
-      "cta": {
-          "path": "#",
-          "name": "Coming Soon"
-      },
-      "altCTA": {
-          "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus-2026.pdf",
-          "name": "Sponsors"
-      }
+    "name": "Cardiff",
+    "description": "Let's get Serverless",
+    "startDate": "21 October 2026",
+    "endDate": "21 October 2026",
+    "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
+    "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
+    "tagline": "One Day. One Track. One Community",
+    "cta": {
+      "path": "#",
+      "name": "Coming Soon"
+    },
+    "altCTA": {
+      "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus-2026.pdf",
+      "name": "Sponsors"
+    }
   },
   "sponsors": {
     "gold": [
-            {
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_125/v1690037756/mobilise_yz9u49.svg",
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_79/v1690037756/mobilise_yz9u49.svg",
         "alt": "Mobilise",
-        "link": "https://www.mobilise.cloud/"    
+        "link": "https://www.mobilise.cloud/"
       },
       {
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_125/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_120/v1528241128/Amazon_Web_Services_Logo_white.png",
         "alt": "Amazon Web Services",
-        "link": "https://aws.amazon.com"    
+        "link": "https://aws.amazon.com"
       },
       {
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_100/v1757361947/CGI_logo_color_rgb_zwetuq.png",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_106/v1757361947/CGI_logo_color_rgb_zwetuq.png",
         "alt": "CGI",
-        "link": "https://aws.amazon.com"    
+        "link": "https://www.cgi.com/en"
       },
       {
-        "img": "https://res.cloudinary.com/dsctrdkro/image/upload//c_scale,w_240/v1755552356/DVLA_Lesser_Arms_Stacked_Pantone_white_zhexst.png",
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_129/v1755552356/DVLA_Lesser_Arms_Stacked_Pantone_white_zhexst.png",
         "alt": "DVLA",
-        "link": "https://careers.dft.gov.uk/our-dft-family/driver-and-vehicle-licensing-agency/digital/"
+        "link": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
       }
     ],
     "silver": [
       {
-        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,w_220/v1755551759/Creditsafe-Logo-White_gaefxv.png",
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/e_trim/c_scale,h_32/v1755551759/Creditsafe-Logo-White_gaefxv.png",
         "alt": "Creditsafe",
         "link": "https://www.creditsafe.com/"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_26/v1790193199/Made_Tech_-_logo_-_white_5000px_jg79lq.png",
+        "alt": "Made Tech",
+        "link": "https://www.madetech.com/"
       }
     ],
-    "bronze": [
-    ],
+    "bronze": [],
     "community": [
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/e_trim/c_scale,h_56/v1790196127/devituk-rectangle-transparent_ifntkg.png",
+        "alt": "DevITJobs",
+        "link": "https://devitjobs.uk/"
+      }
     ]
   },
   "speakers": {
-      "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. Although serverless is a theme that will run throughout the day, with recent seismic changes in the software industry, we want to hear about the impact of generative AI, digital sovereignty, cloud financial management and cloud security amongst other themes. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
-      "lineup": [
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg",
-          "alt": "Ian Massingham",
-          "link": "/speakers/ian",
-          "talk": "Going AI Native: How Anthropic uses Claude"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
-          "alt": "Tom Brewer",
-          "link": "/speakers/tom",
-          "talk": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
-          "alt": "Grace Briody",
-          "link": "/speakers/grace",
-          "talk": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png",
-          "alt": "Gunnar Grosch",
-          "link": "/speakers/gunnar",
-          "talk": "Building Conversational Agents in Code with AWS Lambda Durable Functions"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
-          "alt": "Julian Wood",
-          "link": "/speakers/julian",
-          "talk": "Serverless Compute for Workloads You Didn't Expect"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
-          "alt": "Sarah Williams-Gardener OBE",
-          "link": "/speakers/sarahwg",
-          "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
-        },
-                {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
-          "alt": "Sarah Jones",
-          "link": "/speakers/sarahj",
-          "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
-          "alt": "Matt Johnson",
-          "link": "/speakers/matt",
-          "talk": "Digital Sovereignty: From theory to implementation​"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
-          "alt": "Charmion Akande",
-          "link": "/speakers/charmion",
-          "talk": "Digital Sovereignty: From theory to implementation​"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
-          "alt": "Kyra Wulffert",
-          "link": "/speakers/kyra",
-          "talk": "From Shipping Models to Operating Agents"
-        }
+    "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. Although serverless is a theme that will run throughout the day, with recent seismic changes in the software industry, we want to hear about the impact of generative AI, digital sovereignty, cloud financial management and cloud security amongst other themes. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
+    "lineup": [
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421959/serverlessdays/IanM_rrwkho.jpg",
+        "alt": "Ian Massingham",
+        "link": "/speakers/ian",
+        "talk": "Going AI Native: How Anthropic uses Claude"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
+        "alt": "Tom Brewer",
+        "link": "/speakers/tom",
+        "talk": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+        "alt": "Grace Briody",
+        "link": "/speakers/grace",
+        "talk": "The Friction Tax: What's Actually Slowing Developers Down in the Age of AI?"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1787421875/serverlessdays/Gunnar_lj2aok.png",
+        "alt": "Gunnar Grosch",
+        "link": "/speakers/gunnar",
+        "talk": "Building Conversational Agents in Code with AWS Lambda Durable Functions"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+        "alt": "Julian Wood",
+        "link": "/speakers/julian",
+        "talk": "Serverless Compute for Workloads You Didn't Expect"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1788338650/serverlessdays/SarahWG_tv678f.jpg",
+        "alt": "Sarah Williams-Gardener OBE",
+        "link": "/speakers/sarahwg",
+        "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
+        "alt": "Sarah Jones",
+        "link": "/speakers/sarahj",
+        "talk": "AI in Financial Services: Innovating Without Compromising Trust​"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
+        "alt": "Matt Johnson",
+        "link": "/speakers/matt",
+        "talk": "Digital Sovereignty: From theory to implementation​"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789140822/Charmion_towgus.png",
+        "alt": "Charmion Akande",
+        "link": "/speakers/charmion",
+        "talk": "Digital Sovereignty: From theory to implementation​"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789835811/kyra_xqy6ty.jpg",
+        "alt": "Kyra Wulffert",
+        "link": "/speakers/kyra",
+        "talk": "From Shipping Models to Operating Agents"
+      }
     ]
   },
   "agenda": [
@@ -149,7 +158,7 @@
           "company": "AWS"
         }
       ]
-    },    
+    },
     {
       "time": "10:20",
       "speaker": [
@@ -231,7 +240,7 @@
           "company": "DVLA"
         }
       ]
-    }, 
+    },
     {
       "time": "15:20",
       "speaker": [
@@ -241,7 +250,7 @@
           "title": "Chief Technology Officer",
           "company": "UBDS Group"
         },
-                {
+        {
           "name": "Charmion Akande",
           "link": "/speakers/charmion",
           "title": "Data Platform Engineer",
@@ -292,8 +301,8 @@
     "text": "After the success of the 2025 edition, ServerlessDays Cardiff will once again be held in the DEPOT \r\n \r\n**Location:** DEPOT, Unit 8 Curran Road (Off Dumballs Road), Cardiff, CF10 5DF ",
     "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg",
     "cta": {
-        "path": "https://www.google.com/maps/place/DEPOT+Cardiff/@51.4693702,-3.1794773,17z/data=!3m1!4b1!4m6!3m5!1s0x486e034b9fcf5151:0xa7ef9450320a4964!8m2!3d51.4693669!4d-3.176897!16s%2Fg%2F11bv38d3v5?entry=ttu",
-        "name": "Directions"
+      "path": "https://www.google.com/maps/place/DEPOT+Cardiff/@51.4693702,-3.1794773,17z/data=!3m1!4b1!4m6!3m5!1s0x486e034b9fcf5151:0xa7ef9450320a4964!8m2!3d51.4693669!4d-3.176897!16s%2Fg%2F11bv38d3v5?entry=ttu",
+      "name": "Directions"
     }
-}
+  }
 }
