@@ -3,7 +3,7 @@
     "workshop": {
         "title": "Anthropic Workshop",
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789403924/anthropic-text_eilm3j.png",
-        "description": "Welcome to the Anthropic Workshop! More details coming soon",
+        "description": "A workshop designed for developers, engineers and technical founders.\n\nOn the agenda\n\n* Applied AI masterclass: how to build with Claude and agents\n* Guided build: one build, waymarked to meet you at your level, from first agent to production patterns",
         "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
         "session": {
             "prerequisites": "Please bring your laptop for the hands-on workshop.",

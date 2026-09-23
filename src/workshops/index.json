@@ -9,7 +9,7 @@
     "workshops": [  
         {
             "title": "Anthropic Workshop",
-            "description": "Welcome to the Anthropic Workshop! More details coming soon.",
+            "description": "A workshop designed for developers, engineers and technical founders.",
             "date": "20 Oct 2026",
             "link": "./anthropic",
             "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1789403924/anthropic-text_eilm3j.png",
