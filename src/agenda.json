@@ -129,20 +129,6 @@
     {
       "time": "14:50",
       "name": "Talk",
-      "title": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday​",
-      "speaker": [
-        {
-          "name": "Tom Brewer",
-          "link": "/speakers/tom",
-          "title": "Chief Digital and Technology Officer",
-          "company": "DVLA"
-        }
-      ],
-      "type": "talk"
-    },
-    {
-      "time": "15:20",
-      "name": "Talk",
       "title": "Digital Sovereignty: From theory to implementation​",
       "speaker": [
         {
@@ -161,9 +147,23 @@
       "type": "talk"
     },
     {
-      "time": "15:45",
+      "time": "15:15",
       "name": "Break",
       "type": "break"
+    },
+    {
+      "time": "15:45",
+      "name": "Talk",
+      "title": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday​",
+      "speaker": [
+        {
+          "name": "Tom Brewer",
+          "link": "/speakers/tom",
+          "title": "Chief Digital and Technology Officer",
+          "company": "DVLA"
+        }
+      ],
+      "type": "talk"
     },
     {
       "time": "16:15",

@@ -240,17 +240,6 @@
       "time": "14:50",
       "speaker": [
         {
-          "name": "Tom Brewer",
-          "link": "/speakers/tom",
-          "title": "Chief Digital and Technology Officer",
-          "company": "DVLA"
-        }
-      ]
-    },
-    {
-      "time": "15:20",
-      "speaker": [
-        {
           "name": "Matt Johnson",
           "link": "/speakers/matt",
           "title": "Chief Technology Officer",
@@ -265,9 +254,20 @@
       ]
     },
     {
-      "time": "15:45",
+      "time": "15:15",
       "name": "Break",
       "type": "break"
+    },
+    {
+      "time": "15:45",
+      "speaker": [
+        {
+          "name": "Tom Brewer",
+          "link": "/speakers/tom",
+          "title": "Chief Digital and Technology Officer",
+          "company": "DVLA"
+        }
+      ]
     },
     {
       "time": "16:15",
