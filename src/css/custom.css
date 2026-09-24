@@ -14,6 +14,10 @@
 .tertiaryBkg { background: #1e656d}
 .tertiaryContrastColor { color: #1e656d}
 .tertiaryContrastBkg { background: #ffffff}
+/* Lightning talks: every other palette background is taken by another card type
+   (white = break, cream = talk, teal = keynote, maroon = panel). */
+.lightningColor { color: #001F3F}
+.lightningBkg { background: #e8b44a}
 
 .w-05 { width: 5% }
 .w-12 { width: 12.5% }

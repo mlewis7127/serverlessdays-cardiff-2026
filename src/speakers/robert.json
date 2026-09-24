@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Robert Kitching",
+        "description": "Robert Kitching is CTO at PureCyber.",
+        "url": "https://cardiff.serverlessdays.io/speakers/robert",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1790264896/Robert_wphiop.jpg"
+    },
+    "speaker": {
+        "name": "Robert Kitching",
+        "title": "CTO, PureCyber",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1790264896/Robert_wphiop.jpg",
+        "bio": "",
+        "talk": {
+            "title": "Impact of AI on the SOC: contrasting both sides of the use of AI for attack and defence",
+            "abstract" : ""
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/robert-kitching-41256a82/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

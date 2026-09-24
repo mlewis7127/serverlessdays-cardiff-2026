@@ -1,30 +1,30 @@
 {
   "layout": "agenda.njk",
   "page": {
-      "title": "ServerlessDays Cardiff 2026 - Agenda",
-      "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
-      "url": "https://cardiff.serverlessdays.io/agenda",
-      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
+    "title": "ServerlessDays Cardiff 2026 - Agenda",
+    "description": "One Day. One Track. One Community. ServerlessDays Cardiff is coming soon",
+    "url": "https://cardiff.serverlessdays.io/agenda",
+    "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
   },
   "agenda": [
     {
-        "date": "21 October 2026",
-        "type": "date"
+      "date": "21 October 2026",
+      "type": "date"
     },
     {
-        "time": "08:00",
-        "name": "Doors Open",
-        "type": "break"
+      "time": "08:00",
+      "name": "Doors Open",
+      "type": "break"
     },
     {
-        "time": "09:15",
-        "name": "Welcome Remarks",
-        "speaker": [
-            {
-                "name": "ServerlessDays Team"
-            }
-        ],
-        "type": "talk"
+      "time": "09:15",
+      "name": "Welcome Remarks",
+      "speaker": [
+        {
+          "name": "ServerlessDays Team"
+        }
+      ],
+      "type": "talk"
     },
     {
       "time": "09:30",
@@ -39,7 +39,7 @@
         }
       ],
       "type": "keynote"
-    },    
+    },
     {
       "time": "10:20",
       "name": "Talk",
@@ -139,7 +139,7 @@
         }
       ],
       "type": "talk"
-    }, 
+    },
     {
       "time": "15:20",
       "name": "Talk",
@@ -151,7 +151,7 @@
           "title": "Chief Technology Officer",
           "company": "UBDS Group"
         },
-                {
+        {
           "name": "Charmion Akande",
           "link": "/speakers/charmion",
           "title": "Data Platform Engineer",
@@ -176,12 +176,17 @@
     },
     {
       "time": "16:45",
+      "name": "Lightning",
+      "title": "Impact of AI on the SOC: contrasting both sides of the use of AI for attack and defence",
       "speaker": [
         {
-          "name": "TBC"
+          "name": "Robert Kitching",
+          "link": "/speakers/robert",
+          "title": "CTO",
+          "company": "PureCyber"
         }
       ],
-      "type": "talk"
+      "type": "lightning"
     },
     {
       "time": "17:00",

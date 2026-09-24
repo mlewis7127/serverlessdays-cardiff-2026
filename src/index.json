@@ -129,6 +129,12 @@
         "alt": "Kyra Wulffert",
         "link": "/speakers/kyra",
         "talk": "From Shipping Models to Operating Agents"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1790264896/Robert_wphiop.jpg",
+        "alt": "Robert Kitching",
+        "link": "/speakers/robert",
+        "talk": "Impact of AI on the SOC: contrasting both sides of the use of AI for attack and defence"
       }
     ]
   },
@@ -276,10 +282,13 @@
       "time": "16:45",
       "speaker": [
         {
-          "name": "TBC"
+          "name": "Robert Kitching",
+          "link": "/speakers/robert",
+          "title": "CTO",
+          "company": "PureCyber"
         }
       ],
-      "type": "talk"
+      "type": "lightning"
     },
     {
       "time": "17:00",
