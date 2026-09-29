@@ -9,11 +9,11 @@
     "speaker": {
         "name": "Tom Brewer",
         "title": "Chief Digital and Technology Officer, DVLA",
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1787421965/serverlessdays/TomB_qs3zau.png",
         "bio": "Tom is Chief Digital and Technology Officer at the Driver and Vehicle Licensing Agency (DVLA).",
         "talk": {
             "title": "Modern Ambition, Legacy Reality: Transforming through the constraints of yesterday​",
-            "abstract" : "How many organisations today want to deliver new features and functionality, but are hamstrung by their legacy systems? \n\n In this talk we will hear first hand about the approach taken at DVLA to deliver new modern digital services."
+            "abstract": "How many organisations today want to deliver new features and functionality, but are hamstrung by their legacy systems? \n\n In this talk we will hear first hand about the approach taken at DVLA to deliver new modern digital services."
         },
         "social": [
             {
@@ -29,4 +29,4 @@
             }
         ]
     }
-  }
+}

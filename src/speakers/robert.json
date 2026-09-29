@@ -9,11 +9,11 @@
     "speaker": {
         "name": "Robert Kitching",
         "title": "CTO, PureCyber",
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1790264896/Robert_wphiop.jpg",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/v1790264896/Robert_wphiop.jpg",
         "bio": "",
         "talk": {
             "title": "Impact of AI on the SOC: contrasting both sides of the use of AI for attack and defence",
-            "abstract" : ""
+            "abstract": ""
         },
         "social": [
             {
@@ -29,4 +29,4 @@
             }
         ]
     }
-  }
+}

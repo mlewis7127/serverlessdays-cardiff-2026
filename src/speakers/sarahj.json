@@ -9,11 +9,11 @@
     "speaker": {
         "name": "Sarah Jones",
         "title": "CEO, FinTech Wales",
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1788338656/serverlessdays/SarahJ_hcybcx.jpg",
         "bio": "Sarah is CEO at FinTech Wales, and has been instrumental in raising the profile of Welsh fintechs and strengthening the community’s voice on a global stage. With over 20 years of experience in senior marketing roles across multiple sectors – including finance, tech, IT, legal, HR, healthcare, education, and many more – she has consistently pursued her mission of promoting Wales to the world. She also contributes her expertise as an Advisory Panel Member for Mastering Diversity.",
         "talk": {
             "title": "AI in Financial Services: Innovating Without Compromising Trust​",
-            "abstract" : "AI is reshaping financial services, but success in a regulated industry requires more than powerful models. Join FinTech Wales' Chair (Sarah Williams-Gardener) and CEO (Sarah Jones) and industry leaders for an engaging discussion on how organisations are adopting AI responsibly, balancing innovation with governance, and preparing for the future of financial services. From regulation and risk to real-world deployment and customer trust, discover what it takes to build AI that delivers value in one of the world's most demanding sectors."
+            "abstract": "AI is reshaping financial services, but success in a regulated industry requires more than powerful models. Join FinTech Wales' Chair (Sarah Williams-Gardener) and CEO (Sarah Jones) and industry leaders for an engaging discussion on how organisations are adopting AI responsibly, balancing innovation with governance, and preparing for the future of financial services. From regulation and risk to real-world deployment and customer trust, discover what it takes to build AI that delivers value in one of the world's most demanding sectors."
         },
         "social": [
             {
@@ -29,4 +29,4 @@
             }
         ]
     }
-  }
+}
