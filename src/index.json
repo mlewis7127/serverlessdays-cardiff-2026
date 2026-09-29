@@ -273,7 +273,10 @@
       "time": "16:15",
       "speaker": [
         {
-          "name": "TBC"
+          "name": "Samuel Waymouth",
+          "link": "/speakers/sam",
+          "title": "Security Specialist Solutions Architect",
+          "company": "AWS"
         }
       ],
       "type": "talk"

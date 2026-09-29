@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Samuel Waymouth",
+        "description": "Samuel Waymouth is a Security Specialist Solutions Architect at AWS, focused on securing and governing AI and agentic workloads for enterprise customers across Europe.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sam",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1781728299/serverlessdays/ServerlessDaysCardiff2026_bnv4hc.png"
+    },
+    "speaker": {
+        "name": "Samuel Waymouth",
+        "title": "Security Specialist Solutions Architect, AWS",
+        "img": "",
+        "bio": "Samuel Waymouth is a Security Specialist Solutions Architect at AWS, focused on securing and governing AI and agentic workloads for enterprise customers across Europe. He works with organisations on AI governance, agentic security patterns, and mapping controls to frameworks like ISO 42001, the NIST AI RMF and the EU AI Act.\n\nSam is also a Sergeant in the British Army, Royal Signals, Cyber Security Unit Reserve.",
+        "talk": {
+            "title": "AI Governance: From Foundations to Agentic Speed",
+            "abstract" : "As organisations move from experimental AI to production agentic workloads, governance has to keep pace without slowing teams down. This session shows how to build a governance foundation for AI — spanning organisational structure, policy-as-code and automated evidence collection — and then extend it to govern autonomous agents operating at machine speed.\n\nWe'll cover the AI security triad, preventive and detective controls for foundation models, runtime governance for agents, and how to map it all to frameworks like ISO 42001, the NIST AI RMF and the EU AI Act. You'll leave with a practical, layered approach to governing AI workloads — from the first model invocation to a fully autonomous agent — and a clear place to start tomorrow."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

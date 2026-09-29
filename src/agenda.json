@@ -167,9 +167,14 @@
     },
     {
       "time": "16:15",
+      "name": "Talk",
+      "title": "AI Governance: From Foundations to Agentic Speed",
       "speaker": [
         {
-          "name": "TBC"
+          "name": "Samuel Waymouth",
+          "link": "/speakers/sam",
+          "title": "Security Specialist Solutions Architect",
+          "company": "AWS"
         }
       ],
       "type": "talk"
