@@ -78,6 +78,12 @@
             "alt": "Samuel Waymouth",
             "link": "/speakers/sam",
             "talk": "AI Governance: From Foundations to Agentic Speed"
+        },
+        {
+            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/v1791274412/samt_bxilnw.png",
+            "alt": "Sam Tripp",
+            "link": "/speakers/samt",
+            "talk": "Pairing Internal Experiments with Public Sector Impact"
         }
     ]
 }

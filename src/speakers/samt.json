@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sam Tripp",
+        "description": "Sam Tripp is a Lead Cloud Engineer at Made Tech, where he helps public sector teams build cloud services that are secure, maintainable and production-ready.",
+        "url": "https://cardiff.serverlessdays.io/speakers/samt",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1791274412/samt_bxilnw.png"
+    },
+    "speaker": {
+        "name": "Sam Tripp",
+        "title": "Lead Cloud Engineer, Made Tech",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/v1791274412/samt_bxilnw.png",
+        "bio": "Sam Tripp is a Lead Cloud Engineer at Made Tech, where he helps public sector teams build cloud services that are secure, maintainable and production-ready. With 15+ years in the industry his focus is cloud architecture and the practical uses of generative AI, favouring the applications that survive contact with real users rather than the demo.",
+        "talk": {
+            "title": "Pairing Internal Experiments with Public Sector Impact",
+            "abstract": "Building AI for the public sector requires agility, scale, and multi-cloud flexibility. In this lightning talk, Made Tech shares our AI evolution pairing internal R&D experiments with real-world client deployments. We’ll examine how serverless tooling across AWS, Azure, and GCP enabled us to pivot quickly and scale securely, highlighting key live public sector deployments. Rather than a deep dive into a single tool, this is a frank look at our architectural arc; what surprised us about running AI in serverless environments, what changed our minds, and what we’d build differently today."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/samtripp/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+}

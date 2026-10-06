@@ -195,6 +195,20 @@
     },
     {
       "time": "17:00",
+      "name": "Lightning",
+      "title": "Pairing Internal Experiments with Public Sector Impact",
+      "speaker": [
+        {
+          "name": "Sam Tripp",
+          "link": "/speakers/samt",
+          "title": "Lead Cloud Engineer",
+          "company": "Made Tech"
+        }
+      ],
+      "type": "lightning"
+    },
+    {
+      "time": "17:15",
       "name": "Closing Remarks",
       "speaker": [
         {
@@ -204,7 +218,7 @@
       "type": "talk"
     },
     {
-      "time": "17:15",
+      "time": "17:30",
       "name": "Networking and Drinks - the venue will stay open till 22:00",
       "type": "break"
     }

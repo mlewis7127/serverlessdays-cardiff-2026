@@ -141,6 +141,12 @@
         "alt": "Samuel Waymouth",
         "link": "/speakers/sam",
         "talk": "AI Governance: From Foundations to Agentic Speed"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/f_auto,q_auto/v1791274412/samt_bxilnw.png",
+        "alt": "Sam Tripp",
+        "link": "/speakers/samt",
+        "talk": "Pairing Internal Experiments with Public Sector Impact"
       }
     ]
   },
@@ -301,6 +307,18 @@
     },
     {
       "time": "17:00",
+      "speaker": [
+        {
+          "name": "Sam Tripp",
+          "link": "/speakers/samt",
+          "title": "Lead Cloud Engineer",
+          "company": "Made Tech"
+        }
+      ],
+      "type": "lightning"
+    },
+    {
+      "time": "17:15",
       "name": "Closing Remarks",
       "speaker": [
         {
@@ -310,7 +328,7 @@
       "type": "talk"
     },
     {
-      "time": "17:15",
+      "time": "17:30",
       "name": "Networking and Drinks - the venue will stay open till 22:00",
       "type": "break"
     }
